@@ -1,2 +1,3 @@
 # power-bi
-projects , certificate .
+projects , certificate , notes 
+
